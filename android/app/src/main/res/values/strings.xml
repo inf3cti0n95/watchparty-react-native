@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Watchparty</string>
+    <string name="facebook_app_id">295094925064174</string>
+    <string name="fb_login_protocol_scheme">fb295094925064174</string>
+</resources>
